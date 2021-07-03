@@ -1,0 +1,12 @@
+.Center {
+    text-align: center;
+    color:red;
+}
+
+p.Center {
+    text-align: center;
+    color:green;
+}
+p.large {
+    font-size: 450%;
+}

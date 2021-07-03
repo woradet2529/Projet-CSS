@@ -1,0 +1,25 @@
+#para1 {
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    
+}
+#para2 {
+    text-align:left;
+    color: blue;
+    background-color: coral;
+    font-size: 50px;
+    
+}
+
+#body {
+    background-color: greenyellow;
+    
+    
+}
+
+#p3 {
+    font-size: 70px;
+    text-align: right;
+    color: blue;
+}
