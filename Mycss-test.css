@@ -2,20 +2,21 @@
 .h {
     text-align: center;
     color: blue;
-    font-size: 250%;
+    font-size: 50px;
 }
 
 .Center {
-    
     color: darkgreen;
     font-size: 30px;
-   
 }
 
 * {
     background-color: violet;
-    
+    border-radius: 5cm;
+    border-style: solid;
+
 }
+
 .T {
     text-align: right;
 }
