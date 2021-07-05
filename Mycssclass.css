@@ -1,11 +1,11 @@
 .Center {
     text-align: center;
     color:red;
-}
+    background-color: violet;
 
 p.Center {
     text-align: center;
-    color:green;
+    
 }
 p.large {
     font-size: 450%;

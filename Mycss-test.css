@@ -1,0 +1,21 @@
+
+.h {
+    text-align: center;
+    color: blue;
+    font-size: 250%;
+}
+
+.Center {
+    
+    color: darkgreen;
+    font-size: 30px;
+   
+}
+
+* {
+    background-color: violet;
+    
+}
+.T {
+    text-align: right;
+}
