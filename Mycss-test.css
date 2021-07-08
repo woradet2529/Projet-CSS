@@ -3,20 +3,36 @@
     text-align: center;
     color: blue;
     font-size: 50px;
+    border: 10px solid black;
+    
+    
 }
 
 .Center {
-    color: darkgreen;
+    text-align: center;
+    color: rgb(184, 24, 184);
     font-size: 30px;
+    text-align: right;
+    
 }
 
 * {
-    background-color: violet;
-    border-radius: 5cm;
-    border-style: solid;
-
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+      
+    
 }
 
-.T {
-    text-align: right;
+
+div {
+    image-rendering: crisp-edges;
+    border-radius: 10pc;
+    
+    
 }
